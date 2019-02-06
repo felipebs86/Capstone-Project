@@ -1,0 +1,69 @@
+<resources>
+    <string name="pref_text_color_label">Cor do Texto</string>
+    <string name="pref_text_color_key">text_color</string>
+    <string name="pref_bg_color_label">Cor do Fundo</string>
+    <string name="pref_bg_color_key">bg_color</string>
+
+    <string name="pref_color_label_red">Vermelho</string>
+    <string name="pref_color_label_blue">Azul</string>
+    <string name="pref_color_label_green">Verde</string>
+    <string name="pref_color_label_white">Branco</string>
+    <string name="pref_color_label_yellow">Amarelo</string>
+    <string name="pref_color_label_black">Preto</string>
+    <string name="pref_color_label_orange">Laranja</string>
+
+    <string name="pref_color_red_value" translatable="false">red</string>
+    <string name="pref_color_blue_value" translatable="false">blue</string>
+    <string name="pref_color_green_value" translatable="false">green</string>
+    <string name="pref_color_white_value" translatable="false">white</string>
+    <string name="pref_color_black_value" translatable="false">black</string>
+    <string name="pref_color_yellow_value" translatable="false">yellow</string>
+    <string name="pref_color_orange_value" translatable="false">orange</string>
+
+    <string name="pref_mirror_key">espelhado</string>
+    <string name="pref_mirror_label">Espelhado</string>
+    <string name="pref_mirror_summary">Texto Espelhado</string>
+    <string name="pref_text_size_label">Tamanho da Fonte</string>
+    <string name="pref_text_size_key">tamanho_fonte</string>
+    <string name="pref_text_size_summary">Escolha o tamanho da fonte</string>
+    <string name="pref_speed_summary">Ajuste a velocidade da rolagem do texto</string>
+    <string name="pref_speed_key">velocidade</string>
+    <string name="pref_speed_label">Velocidade de rolagem</string>
+    <string name="pref_font_label">Fonte</string>
+    <string name="pref_font_key">fonte</string>
+    <string name="pref_font_summary">Escolha a fonte</string>
+    <string name="pref_text_color_summary">Escolha a cor do texto</string>
+    <string name="pref_bg_color_summary">Escolha a cor do fundo</string>
+
+    <string name="app_name">TelePrompter Mobile</string>
+    <string name="action_add">Adicionar Texto</string>
+    <string name="text_title">Título do Texto</string>
+    <string name="write_text">Escreva ou cole um texto</string>
+    <string name="button_add">Adicionar</string>
+    <string name="button_discard">Remover</string>
+    <string name="action_play">Iniciar</string>
+    <string name="up">Voltar</string>
+    <string name="button_play">Iniciar</string>
+    <string name="button_delete">Remover</string>
+    <string name="menu_settings">Configurações</string>
+    <string name="play_menu">iniciar_pausar</string>
+    <string name="texts_removed_toast">Texto removido da base de dados</string>
+    <string name="add_title_toast">Adicione um título para o texto</string>
+    <string name="add_desc_toast">Adicione uma descrição para o texto</string>
+    <string name="cannot_remove">O Texto padrão não pode ser removido</string>
+    <string name="ad_unit">ca-app-pub-4695644377687341/2999303281</string>
+    <string name="app_Id">ca-app-pub-4695644377687341~6421164237</string>
+    <string name="ga_trackingId" translatable="false">UA-112239354-1</string>
+    <string name="appwidget_text">TelePrompter Mobile</string>
+    <string name="add_widget">Adicionar widget</string>
+    <string name="play_pause_desc">Iniciar ou interromper</string>
+    <string name="text_title_desc">Adicione um titulo ao texto</string>
+    <string name="addText_desc">Escreva ou cole um texto</string>
+    <string name="tracker_action">Action</string>
+    <string name="tracker_share">Share</string>
+    <string name="texts_tag_main_to_detail">texts</string>
+    <string name="POSX">position_x</string>
+    <string name="POSY">position_y</string>
+    <string name="action_update_widget">update_widget</string>
+    <string name="no_texts_available">Sem textos disponíveis</string>
+</resources>
